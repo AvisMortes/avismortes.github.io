@@ -1,0 +1,112 @@
+[{
+    "_insertedAt": 1647587659,
+    "audioUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/audio/457663/9068e42c24a44396c27a.mp3",
+    "audioUrlLabeled": {},
+    "description": "Украинские войска в 9:15 выпустили шесть снарядов калибром 122 мм по населенному пункту Кременец в ДНР, сообщает представительство республики в Совместном центре по контролю и координации режима прекращения огня (СЦКК). «Зафиксирован обстрел со стороны ВФУ по направлению 09:15 — н.п. Красногоровка — н.п. Кременец: выпущено 6 снарядов калибром 122 мм», — говорится в сообщении, опубликованном в Telegram-канале представительства.",
+    "guid": "a05652e2fb614e9b82878230207483e6__10",
+    "link": "https://ria.ru/20220318/kremenets-1778783870.html",
+    "pictureAuthor": "Валентин Спринчак/ТАСС",
+    "pictureSet": {
+        "1x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457663/b2cd5574640fc25f8bb3_534_534_0.webp",
+        "2x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457663/b2cd5574640fc25f8bb3_1068_1068_0.webp",
+        "3x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457663/b2cd5574640fc25f8bb3_maxed.webp"
+    },
+    "pictureSetJpeg": {
+        "1x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457663/b2cd5574640fc25f8bb3_534_534_0.jpeg",
+        "2x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457663/b2cd5574640fc25f8bb3_1068_1068_0.jpeg",
+        "3x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457663/b2cd5574640fc25f8bb3_orig.jpeg"
+    },
+    "pubDate": "Fri, 18 Mar 2022 07:01:29 +0000",
+    "shortSummary": null,
+    "sourceCategoryId": 777037,
+    "title": "Украинские войска выпустили шесть снарядов по пункту Кременец в ДНР",
+    "videoPreview": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457663/48987bdab642d537f760.jpeg",
+    "videoPreviewLabeled": {},
+    "videoUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/video/457663/16b80ed1cc6a46075bfb.mp4",
+    "videoUrlLabeled": {},
+    "vttUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/audio/457663/9068e42c24a44396c27a.mp3.vtt"
+},
+{
+        "_insertedAt": 1647585928,
+        "audioUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/audio/457662/6b6b39e2d3f8ad0eb2ea.mp3",
+        "audioUrlLabeled": {},
+        "description": "Ночью 18 марта игровые разработчики из России получили письма от Valve, в которых сообщалось о приостановке выплат на банковские счета. Ситуация коснулась также создателей из Украины и Белоруссии. «Ваша банковская информация Steam была деактивирована по следующей причине: в связи с текущей ситуацией в мире, мы не можем отправить банковские выплаты для граждан Беларуси, России и Украины. Пока банковская информация не будет исправлена, Valve не сможет осуществлять перевод для вас. Пожалуйста, исправьте вашу банковскую информацию как можно скорее. При необходимости, после исправления Valve включит имеющийся остаток в следующую ежемесячную выплату», — говорится в письме. Судя по всему, Valve не может отправить ежемесячную выплату авторам из России и Белоруссии, потому что в этих странах не работают международные Visa и MasterCard.",
+        "guid": "69cbf2ce9e37419e94faf2603d904a53__102",
+        "link": "https://www.championat.com/cybersport/news-4639451-steam-ostanovil-vyplaty-razrabotchikam-iz-rossii.html",
+        "pictureAuthor": "Depositphotos.com",
+        "pictureSet": {
+            "1x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/c4b78bb81328554e7ba1_534_534_0.webp",
+            "2x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/c4b78bb81328554e7ba1_1068_1068_0.webp",
+            "3x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/c4b78bb81328554e7ba1_1602_1602_0.webp"
+        },
+        "pictureSetJpeg": {
+            "1x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/c4b78bb81328554e7ba1_534_534_0.jpeg",
+            "2x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/c4b78bb81328554e7ba1_1068_1068_0.jpeg",
+            "3x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/c4b78bb81328554e7ba1_1602_1602_0.jpeg"
+        },
+        "pubDate": "Fri, 18 Mar 2022 06:21:12 +0000",
+        "shortSummary": null,
+        "sourceCategoryId": 777007,
+        "title": "Steam остановил выплаты разработчикам из России",
+        "videoPreview": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/8e9ca9024778930571d8.jpeg",
+        "videoPreviewLabeled": {},
+        "videoUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/video/457662/2939906bf394d93bd565.mp4",
+        "videoUrlLabeled": {},
+        "vttUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/audio/457662/6b6b39e2d3f8ad0eb2ea.mp3.vtt"
+    },
+    {
+        "_insertedAt": 1647360225,
+        "audioUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/audio/457599/7421b825f40c9e30e2ae.mp3",
+        "audioUrlLabeled": {},
+        "description": "Авторы Monster Hunter Rise раскрыли дату выхода масштабного дополнения Sunbreak и показали геймплей. Игроки отправятся на аванпост Эльгадо, где появятся новые монстры и оружие. По сюжету над Королевством возникла угроза из-за трёх могущественных существ, которых называют Лордами. Они вызывают аномальную активность монстров в Эльгадо, с которой предстоит разобраться охотникам. Чтобы попасть в локации Sunbreak, игрокам нужно будет выполнить квест Serpent Goddess Of Thunder. Разработчики обещают добавить и новых монстров, и уже известных по другим частям Monster Hunter. Появятся свежие боевые механики и большие открытые локации без загрузок. Подробности раскроют позднее. Дополнение выйдет на ПК и Nintendo Switch 30 июня по цене в $39.99 (~4,5 тыс. рублей).",
+        "guid": "a9836ec52a4e4e5e84f0ed88c02d5e77__102",
+        "link": "https://www.championat.com/cybersport/news-4637301-dlya-sunbreak-k-monster-hunter-rise-pokazali-mnogo-gejmpleya-i-nazvali-datu-reliza.html",
+        "pictureAuthor": "Capcom",
+        "pictureSet": {
+            "1x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457599/fe9a3c3d4092a8a6ab01_534_534_0.webp",
+            "2x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457599/fe9a3c3d4092a8a6ab01_maxed.webp",
+            "3x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457599/fe9a3c3d4092a8a6ab01_1130_514_0.webp"
+        },
+        "pictureSetJpeg": {
+            "1x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457599/fe9a3c3d4092a8a6ab01_534_534_0.jpeg",
+            "2x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457599/fe9a3c3d4092a8a6ab01_orig.jpeg",
+            "3x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457599/fe9a3c3d4092a8a6ab01_1130_514_0.jpeg"
+        },
+        "pubDate": "Tue, 15 Mar 2022 15:38:39 +0000",
+        "shortSummary": null,
+        "sourceCategoryId": 777007,
+        "title": "Дополнение Sunbreak к Monster Hunter Rise выйдет 30 июня",
+        "videoPreview": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457600/b1647df00121523bc39c.jpeg",
+        "videoPreviewLabeled": {},
+        "videoUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/video/457600/8caa1dc0f0f879825562.mp4",
+        "videoUrlLabeled": {},
+        "vttUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/audio/457599/7421b825f40c9e30e2ae.mp3.vtt"
+    },
+    {
+        "_insertedAt": 1647586506,
+        "audioUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/audio/457662/5b2ddf7bc7380b412c7a.mp3",
+        "audioUrlLabeled": {},
+        "description": "Масложировой союз России пожаловался на нехватку финансирования для закупки сырья. Об этом в ходе совещания об обеспечении продовольственной безопасности России в условиях санкций заявил директор ассоциации Михаил Мальцев, передает «Интерфакс». «У нас фактически сегодня парализована закупка сырья. Банки стоят по выдаче кредитов, даже коммерческие кредиты не выдаются, поступление валютной выручки хромает», — отметил Мальцев. По его словам, потребности отрасли в кредитных средствах оцениваются в 150 млрд рублей. Требуемые средства господдержки составляют 30 млрд рублей. Он добавил, что также есть проблемы с вывозом продукции масложировой отрасли. Например, вывоз шротов в Прибалтику железнодорожным транспортом пока что невозможен из-за угрозы конфискации подвижного состава.",
+        "guid": "3c4bb51801654e42809266f3fb451a2e__1",
+        "link": "https://www.gazeta.ru/business/news/2022/03/18/17442955.shtml",
+        "pictureAuthor": "©Александр Кондратюк/РИА Новости",
+        "pictureSet": {
+            "1x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/07b86bccf0a0827c4113_534_534_0.webp",
+            "2x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/07b86bccf0a0827c4113_1068_1068_0.webp",
+            "3x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/07b86bccf0a0827c4113_1602_1602_0.webp"
+        },
+        "pictureSetJpeg": {
+            "1x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/07b86bccf0a0827c4113_534_534_0.jpeg",
+            "2x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/07b86bccf0a0827c4113_1068_1068_0.jpeg",
+            "3x": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/07b86bccf0a0827c4113_1602_1602_0.jpeg"
+        },
+        "pubDate": "Fri, 18 Mar 2022 06:35:11 +0000",
+        "shortSummary": null,
+        "sourceCategoryId": 777005,
+        "title": "Производители масла заявили о нехватке финансирования для закупки сырья",
+        "videoPreview": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/images/457662/566ca207f07ff92c62c6.jpeg",
+        "videoPreviewLabeled": {},
+        "videoUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/video/457662/91d903e474cdcc17ea46.mp4",
+        "videoUrlLabeled": {},
+        "vttUrl": "https://vc-static.sberdevices.ru/stage-smartmarket-video-news/rss/audio/457662/5b2ddf7bc7380b412c7a.mp3.vtt"
+    }]
