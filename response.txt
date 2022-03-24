@@ -1,0 +1,389 @@
+[
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/main.svg",
+        "id": 1,
+        "name": "Главные новости",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/top7.json",
+        "sourceCategory": false,
+        "switchable": false
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/main_theme.png",
+        "id": 777039,
+        "name": "Главная тема",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/main_theme.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/culture.svg",
+        "id": 4,
+        "name": "Культура",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/culture.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/world.svg",
+        "id": 10,
+        "name": "Новости мира",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/world.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/sport.svg",
+        "id": 5,
+        "name": "Спорт",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/sport.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/avto.svg",
+        "id": 12,
+        "name": "Авто",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/auto.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/cybersport.svg",
+        "id": 102,
+        "name": "Видеоигры",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/cybersport.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/science.svg",
+        "id": 3,
+        "name": "Наука и IT",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/science.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/economics.svg",
+        "id": 2,
+        "name": "Экономика",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/economics.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/media.svg",
+        "id": 6,
+        "name": "Медиа",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/media.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/busines.svg",
+        "id": 14,
+        "name": "Бизнес",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/business.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/travel.svg",
+        "id": 7,
+        "name": "Путешествия",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/travel.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/society.svg",
+        "id": 8,
+        "name": "Общество",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/russia_society.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/politics.svg",
+        "id": 9,
+        "name": "Политика",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/russia_politic.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/longreads.svg",
+        "id": 80,
+        "name": "Это интересно",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/longreads.json",
+        "sourceCategory": false,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/obzor.svg",
+        "id": 10000,
+        "name": "Обзоры недели",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/weekend.json",
+        "sourceCategory": false,
+        "switchable": false
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/motor.jpg",
+        "id": 777003,
+        "name": "Мотор",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/motor.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/secret.jpg",
+        "id": 777004,
+        "name": "Секрет Фирмы",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/secret_firmy.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/gazeta.jpg",
+        "id": 777005,
+        "name": "Газета.Ru",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/gazetaru.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/afisha_daily.jpg",
+        "id": 777006,
+        "name": "Афиша.Daily",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/afisha_daily.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/championt.jpg",
+        "id": 777007,
+        "name": "Championat.com",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/championat.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/ferra.jpg",
+        "id": 777009,
+        "name": "Ferra.ru",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/ferra.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/sberbusiness.png",
+        "id": 777012,
+        "name": "SberBusiness Live",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/sberbusiness_live.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/moslenta.jpg",
+        "id": 777013,
+        "name": "Мослента",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/moslenta.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/aif_logo_500.png",
+        "id": 777017,
+        "name": "Аргументы и факты",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/aif.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/rbc.jpg",
+        "id": 777021,
+        "name": "РБК",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/rbc.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/sber_rnd.jpg",
+        "id": 777023,
+        "name": "Управление исследований и инноваций",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/sber_nauka.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/evening_moscow.jpg",
+        "id": 777024,
+        "name": "Вечерняя Москва",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/evening_moscow.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/Sber.jpg",
+        "id": 777027,
+        "name": "Новости от Сбера",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/sber_news.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/lenta.jpg",
+        "id": 777028,
+        "name": "Lenta.ru",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/lentaru.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/quto.jpg",
+        "id": 777029,
+        "name": "Quto.ru",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/quto.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/kommersant.jpg",
+        "id": 777030,
+        "name": "КоммерсантЪ",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/kommersant.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/mk.png",
+        "id": 777031,
+        "name": "Московский Комсомолец",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/mk.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/eadaily.png",
+        "id": 777032,
+        "name": "EADaily",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/eadaily.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/bfm.png",
+        "id": 777033,
+        "name": "BFM.RU",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/bfmru.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/tass.png",
+        "id": 777034,
+        "name": "ТАСС",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/tass.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/teleg.png",
+        "id": 777035,
+        "name": "Новости ТГ-каналов",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/tg_channels.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/osn.jpeg",
+        "id": 777036,
+        "name": "ОСН",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/osn.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/ria.png",
+        "id": 777037,
+        "name": "РИА Новости",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/ria.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/ii.png",
+        "id": 777038,
+        "name": "Искусственный Интеллект",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/ii.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/rgru.png",
+        "id": 777041,
+        "name": "Российская газета",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/rgru.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/m24.png",
+        "id": 777042,
+        "name": "Москва 24",
+        "rss": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category/m24.json",
+        "sourceCategory": true,
+        "switchable": true
+    },
+    {
+        "active": true,
+        "categoryImage": "https://vc-static.sberdevices.ru/testing-smartmarket-video-news/rss/category_image/now.png",
+        "id": 105,
+        "name": "Сейчас",
+        "rss": "https://9c8cd05d-e4d7-49c6-a52f-9c8e00051404.mock.pstmn.io/rss/category/now.json",
+        "sourceCategory": true,
+        "switchable": true
+    }
+]
